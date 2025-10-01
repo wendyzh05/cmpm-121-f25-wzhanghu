@@ -18,7 +18,6 @@ Key workflows:
 - Removing this introductory documentation and replacing it with your own so that your project represents your voice, not that of the course staff. (Students: Don't let _this_ README.md be the only documentation in your project!)
 - Repeating the editing-to-publishing process to build familiarity with the overall workflow.
 
-
 ## MY work
 
 I made the button increment the counter by 1
